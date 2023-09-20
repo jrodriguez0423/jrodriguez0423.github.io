@@ -1,0 +1,203 @@
+/* Base Styles */
+body {
+    background-color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    height: 2500px;
+    width: 1080px;
+}
+
+
+/* Centered Text */
+.centered, .centered1 {
+    color: #000000;
+    font-size: 50px;
+    left: 50%;
+    position: absolute;
+    top: 10%;
+    transform: translate(-50%, -50%);
+}
+
+.centered1 {
+    top: 60%;
+}
+
+/* Paragraphs */
+p {
+    font-size: 18px;
+    left: 10%;
+    position: absolute;
+    right: 10%;
+    top: 70%;
+}
+
+/* Links */
+.github, .linkedin {
+    left: 16.5%;
+    position: absolute;
+    top: 1600px;
+    width: 300px;
+}
+
+
+
+.github {
+    left: 42.5%;
+}
+
+/* Project Section */
+h3, h4, h5 {
+    font-size: 20px;
+    position: absolute;
+    top: 1400px;
+}
+
+.proj {
+    font-size: 22px;
+    left: 42.5%;
+    position: absolute;
+    top: 1050px;
+}
+
+.h4 {
+    left: 19.5%;
+    position: absolute;
+    top: 93%;
+}
+
+.h5 {
+    left: 40%;
+    position: absolute;
+    top: 92%;
+}
+
+.h6 {
+    left: 58%;
+    position: absolute;
+    top: 91%;
+}
+
+.div, .discord, .lotto {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 1320px;
+    width: 300px;
+}
+
+.discord {
+    left: 10%;
+    top: 1150px;
+    width: 400px;
+}
+
+.h4 {
+    font-size: 20px;
+}
+
+.lotto {
+    left: 44%;
+    position: absolute;
+    top: 1120px;
+    width: 250px;
+}
+
+.div {
+    left: 72.5%;
+    position: absolute;
+    top: 1150px;
+    width: 250px;
+}
+
+.dm {
+    left: 90%;
+    position: absolute;
+}
+
+/* Font Weight Styles */
+.bold {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* About Me Section */
+.abm, .abm2, .email {
+    position: absolute;
+}
+
+.abm {
+    font-size: 22px;
+    font-weight: bold;
+    left: 20%;
+    position: absolute;
+    top: 770px;
+    transform: translate(-50%,-50%);
+}
+
+.abm2 {
+    left: 10%;
+    position: absolute;
+    right: 70%;
+    top: 800px;
+}
+
+/* Skills Section */
+.skills, .languages, .tools {
+    font-size: 22px;
+    font-weight: bold;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.skills {
+    top: 770px;
+}
+
+.languages {
+    left: 42.5%;
+    top: 915px;
+}
+
+.tools {
+    left: 57.5%;
+    top: 900px;
+}
+
+.dis {
+    left: 22%;
+}
+
+h4 {
+    right: 14%;
+}
+
+h5 {
+    left: 45%;
+
+}
+
+.pfp {
+    position: absolute;
+    right: 10%;
+    top: 770px;
+    width: 280px;
+}
+
+.res {
+    position: absolute;
+    top: 1080px;
+    right: 16%;
+}
+
+.contact{
+    position:absolute ;
+    top: 1060px;
+    right: 8.5%;
+}
+
+.email {
+    position: absolute;
+    right: 13%;
+    top: 1600px;
+    width: 300px;
+}
