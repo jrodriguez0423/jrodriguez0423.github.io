@@ -3,7 +3,9 @@
 Name: Justin Rodriguez
 CWID: 885727156
 Email: jrodriguez0423@csu.fullerton.edu
-Languages uesed: HTML & CSS
+Languages used: HTML & CSS
+
+Website link: https://jrodriguez0423.github.io/home.html
 
 References:
 
