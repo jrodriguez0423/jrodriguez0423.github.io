@@ -1,5 +1,3 @@
-# personal_portfolio
-
 Name: Justin Rodriguez
 
 CWID: 885727156
